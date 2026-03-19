@@ -1,7 +1,7 @@
 # CS101 Spring 2026 — Practice Midterm Reflection
 
-Name: Add Your Name Here  
-Date: Add Date Here
+Name: Rivan 
+Date: 3/18/26
 
 After completing the practice test, please reflect on your experience by
 answering the questions below. Replace each `TODO` with a thoughtful response
@@ -17,7 +17,7 @@ Which topics felt most comfortable, and which ones felt most difficult?
 
 **Your Answer:**
 
-TODO
+i feel like it was pretty easy and i feel prepared for the actual test
 
 ---
 
@@ -28,7 +28,7 @@ Explain the concept being tested and describe why the correct answer is right.
 
 **Your Answer:**
 
-TODO
+q22 was one i struggled to understand because lsit slicing the way the answers were given were a little confusing.
 
 ---
 
@@ -39,7 +39,7 @@ with a positive step versus a negative step. Give one original example of each.
 
 **Your Answer:**
 
-TODO
+a postive step is will go in a forward order in the number and a negative will go backwards in order
 
 ---
 
@@ -51,7 +51,7 @@ dictionary and a set. When would you choose each?
 
 **Your Answer:**
 
-TODO
+lists are mutable where tuples are not dictionaries store key value pairs and sets store unique values you would use them when you either need information that wont change inforation that needs updated when you need to have pairs of information or when you need unique information saved
 
 ---
 
@@ -63,7 +63,7 @@ the caller omits that argument.
 
 **Your Answer:**
 
-TODO
+an example of a pythin fucntion would be a = and when it is used to create a corosponding info
 
 ---
 
@@ -81,7 +81,7 @@ for n in range(1, 11):
 
 **Your Answer:**
 
-TODO
+result = [n * 2 for n in range(1, 11) if n % 3 == 0]
 
 ---
 
@@ -92,7 +92,7 @@ What is the value of `2 ** 2 ** 3`? Show your step-by-step reasoning.
 
 **Your Answer:**
 
-TODO
+3**2 = 9**2 = 81
 
 ---
 
@@ -102,7 +102,7 @@ TODO
 
 **Your Answer:**
 
-TODO
+a class is a kinda like a plan for a block in code 
 
 ---
 
